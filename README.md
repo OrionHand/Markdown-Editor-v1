@@ -3,7 +3,9 @@ Buenas!!
 para correr el programa:
 
 -git clone(el url se obtiene del boton clone de github) 
+
 -npm install
+
 -npm start (o yarn start si usas yarn :v)
 
 enlace a video con funcionalidad:
